@@ -1,9 +1,8 @@
 #include<stdio.h>
-
 /**
- * main function the entry point where a program start
- *0000
- * Function Return value 0 After finished print all msg
+ * main - Entry point where a programe starting
+ *
+ * Return: Value 0 (Success)
 */
 int main(void)
 {
