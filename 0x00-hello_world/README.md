@@ -1,0 +1,1 @@
+README file for script files project alx-low_level_programming
