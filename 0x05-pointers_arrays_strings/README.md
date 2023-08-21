@@ -1,0 +1,1 @@
+this readme file for our project  C - Pointers, arrays and strings
